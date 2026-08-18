@@ -170,6 +170,7 @@ public class Atividade {
         }else{
             System.out.println("São iguais: " + somas[1] + " = " + somas[0]);
         }
+
         teclado.close();
     }
 }
